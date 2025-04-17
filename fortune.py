@@ -22,7 +22,7 @@ def main():
         ],
         "stressed":[
             "Streesing won't help at all, keep calm",
-            "Stressing is the mother of all problems, keep calm"
+            "Stressing is the mother of all problems, keep calm."
         ]
     }
 
